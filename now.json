@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "name": "priv-mod",
+  "builds": [
+    {
+      "src": "*.go",
+      "use": "@now/go"
+    }
+  ]
+}
